@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prantikg96" alt="prantikg96" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/9theblacksheep6" target="blank"><img src="https://img.shields.io/twitter/follow/9theblacksheep6?logo=twitter&style=for-the-badge" alt="9theblacksheep6" /></a> </p>
+<p align="left"> <a href="https://twitter.com/9theblacksheep6" target="_blank"><img src="https://img.shields.io/twitter/follow/9theblacksheep6?logo=twitter&style=for-the-badge" alt="9theblacksheep6" /></a> </p>
 
 - 🌱 I’m currently learning **Bootstrap 5**
 
