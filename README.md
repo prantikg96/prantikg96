@@ -11,6 +11,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/prantikg96?tab=repositories](https://github.com/prantikg96?tab=repositories)
 
+- 👨‍💻 Recently added:
+
+- 👨‍💻 Weather App [https://prantikg96.github.io/weather-app/](https://prantikg96.github.io/weather-app/)
+
+- 👨‍💻 Image to Text Converter App [https://prantikg96.github.io/img-to-text-converter-app/](https://prantikg96.github.io/img-to-text-converter-app/)
+
 - ⚡ Fun fact **I think I ain't funny 😂😒**
 
 <h3 align="left">Connect with me:</h3>
