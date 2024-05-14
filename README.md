@@ -17,6 +17,8 @@
 
 - 👨‍💻 Image to Text Converter App [https://prantikg96.github.io/img-to-text-converter-app/](https://prantikg96.github.io/img-to-text-converter-app/)
 
+- 👨‍💻 Dynamic To-Do List [https://prantikg96.github.io/dynamic-to-do-list/](https://prantikg96.github.io/dynamic-to-do-list/)
+
 - ⚡ Fun fact **I think I ain't funny 😂😒**
 
 <h3 align="left">Connect with me:</h3>
