@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/prantikg96?tab=repositories](https://github.com/prantikg96?tab=repositories)
 
-- 👨‍💻 Recently added:
+- # Recently added:
 
 - 👨‍💻 Weather App [https://prantikg96.github.io/weather-app/](https://prantikg96.github.io/weather-app/)
 
