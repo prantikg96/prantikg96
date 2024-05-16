@@ -19,6 +19,8 @@
 
 - 👨‍💻 Dynamic To-Do List [https://prantikg96.github.io/dynamic-to-do-list/](https://prantikg96.github.io/dynamic-to-do-list/)
 
+- 👨‍💻 Random Password Generator [https://prantikg96.github.io/random-password-generator/](https://prantikg96.github.io/random-password-generator/)
+
 - ⚡ Fun fact **I think I ain't funny 😂😒**
 
 <h3 align="left">Connect with me:</h3>
