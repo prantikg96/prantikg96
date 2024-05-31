@@ -21,6 +21,8 @@
 
 - 👨‍💻 Random Password Generator [https://prantikg96.github.io/random-password-generator/](https://prantikg96.github.io/random-password-generator/)
 
+- 👨‍💻 Restaurant Tip Generator [https://prantikg96.github.io/restaurant-tip-calculator/](https://prantikg96.github.io/restaurant-tip-calculator/)
+
 - ⚡ Fun fact **I think I ain't funny 😂😒**
 
 <h1 align="left">Connect with me:</h1>
