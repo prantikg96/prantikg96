@@ -23,7 +23,9 @@
 
 - 👨‍💻 Restaurant Tip Generator [https://tbs96.github.io/restaurant-tip-calculator/](https://tbs96.github.io/restaurant-tip-calculator/)
 
-- ⚡ Fun fact **I think I ain't funny 😂😒**
+- 👨‍💻 Manual Image Slider [https://tbs96.github.io/image-slider/](https://tbs96.github.io/image-slider/)
+
+### ⚡ Fun fact **I think I ain't funny 😂😒**
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
