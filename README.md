@@ -25,6 +25,8 @@
 
 - 👨‍💻 Manual Image Slider [https://tbs96.github.io/image-slider/](https://tbs96.github.io/image-slider/)
 
+- 👨‍💻 BMI Calculator [https://tbs96.github.io/bmi-calculator/](https://tbs96.github.io/bmi-calculator/)
+
 ### ⚡ Fun fact **I think I ain't funny 😂😒**
 
 <h1 align="left">Connect with me:</h1>
